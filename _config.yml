@@ -3,19 +3,20 @@
 # Site
 language: zh-CN
 
-shortcut_icon: https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png
+shortcut_icon: https://fastly.jsdelivr.net/gh/jhlzlove/dist@main/images/doc/favicon.ico
 favicon: https://fastly.jsdelivr.net/gh/jhlzlove/dist@main/images/doc/favicon.ico
 avatar: https://fastly.jsdelivr.net/gh/jhlzlove/dist@main/images/doc/avatar.jpeg
 
 # 主题
 theme: resume
 theme_config:
+  custom_css: https://jhlzlove.github.io/resume-doc/**.css
   robots: index,follow
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://jhlzlove.github.io/resume-doc
 # url: http://localhost:4000
-root: /
+root: /resume-doc/
 permalink: posts/:title/
 tag_dir: tags
 archive_dir: archives
@@ -120,21 +121,21 @@ import:
 ## Config passed to sw-precache
 ## https://github.com/JLHwung/hexo-offline
 # offline config passed to sw-precache.
-offline:
-  maximumFileSizeToCacheInBytes: 10485760
-  staticFileGlobs:
-    - public/**/*.{js,html,css,png,jpg,gif,svg,eot,ttf,woff,woff2}
-  stripPrefix: public
-  verbose: true
-  runtimeCaching:
-    - urlPattern: /*
-      handler: cacheFirst
-      options:
-        origin: cdn.jsdelivr.net
-    - urlPattern: /*
-      handler: cacheFirst
-      options:
-        origin: cdnjs.cloudflare.com
+# offline:
+#   maximumFileSizeToCacheInBytes: 10485760
+#   staticFileGlobs:
+#     - public/**/*.{js,html,css,png,jpg,gif,svg,eot,ttf,woff,woff2}
+#   stripPrefix: public
+#   verbose: true
+#   runtimeCaching:
+#     - urlPattern: /*
+#       handler: cacheFirst
+#       options:
+#         origin: cdn.jsdelivr.net
+#     - urlPattern: /*
+#       handler: cacheFirst
+#       options:
+#         origin: cdnjs.cloudflare.com
 
 nofollow:
   enable: true
