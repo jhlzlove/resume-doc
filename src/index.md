@@ -5,10 +5,10 @@ lang: en
 keywords: Resume,Hexo,Resume Theme
 description: This is a cool resume theme for hexo.
 # Resume Title
-resume_title: Jon Snow's Resume
+resume_title: JHLZ's Resume
 # Job Applicant Name
-name: Jon Snow
-avatar: https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png
+name: jhlz
+avatar: https://fastly.jsdelivr.net/gh/jhlzlove/dist@main/images/doc/avatar.jpeg
 # Contact
 contact:
   # URL

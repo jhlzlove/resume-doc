@@ -2,26 +2,26 @@
 # 语言 （可选）
 lang: zh-cn
 # 网页关键词和描述
-keywords: 简历主题,Hexo主题,简历模板
-description: 这是一个在线简历模板（Hexo博客主题）。
+keywords: 简历,Hexo主题,简历模板
+description: 这是一个使用开源的 hexo 在线简历模板搭建的在线简历，使用模板地址：https://github.com/xaoxuu/resume-docs。
 # 简历标题
-resume_title: Jon Snow's Resume
+resume_title: 江湖浪子的在线简历
 # 应聘者姓名
-name: Jon Snow
-avatar: https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png
+name: 江湖浪子
+avatar: https://fastly.jsdelivr.net/gh/jhlzlove/dist@main/images/doc/avatar.jpeg
 # 联系方式
 contact:
   - icon: fas fa-globe-asia
-    text: https://resume.js.org
-    url: https://resume.js.org/zh-cn/
+    text: https://jhlzlove.github.io
+    url: https://jhlzlove.github.io/resume-doc/zh-cn/
   # 邮箱
   - icon: fas fa-envelope
     text: your email
-    url:
+    url: mailto:jhlzlove@163.com
   # 电话号码
   - icon: fas fa-phone-alt
     text: 1xxxxxxxxxx
-    url: tel:10086
+    url: tel:17518990502
 # PDF下载链接
 download:
   title: 下载本站源码
