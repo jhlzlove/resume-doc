@@ -17,7 +17,7 @@ contact:
     url: https://jhlzlove.github.io
   # Email
   - icon: fas fa-envelope
-    text: email
+    text: jhlz email
     url: mailto:jhlzlove@163.com
   # Phone Number
   - icon: fas fa-phone-alt
@@ -34,22 +34,22 @@ contact:
 
 ## <i class="fas fa-user-graduate"></i> Education
 
-Please move to Simplified Chinese
+Please move to Simplified Chinese.
 
 **XX University X College X Course X Major X Graduation**
 
 
 ## <i class="fas fa-user-tie"></i> Work Experience
 
-#### 2023 ~ Present: Company XX
+Please move to Simplified Chinese.
 
-Please move to Simplified Chinese
+#### 2023 ~ Present: Company XX
 
 
 
 ## <i class="fas fa-award"></i> Featured Projects
 
-Please move to Simplified Chinese
+Please move to Simplified Chinese.
 
 ### Project A
 
