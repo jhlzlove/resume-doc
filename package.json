@@ -2,7 +2,7 @@
   "name": "hexo-site",
   "private": true,
   "hexo": {
-    "version": "7.1.0"
+    "version": "6.3.0"
   },
   "engines": {
     "node": ">=20.x"
@@ -14,7 +14,7 @@
     "push": "hexo cl && hexo generate && hexo deploy"
   },
   "dependencies": {
-    "hexo": "^7.1.0",
+    "hexo": "^6.3.0",
     "hexo-autonofollow": "^1.0.1",
     "hexo-deployer-git": "^4.0.0",
     "hexo-lazyload-image": "^1.0.13",

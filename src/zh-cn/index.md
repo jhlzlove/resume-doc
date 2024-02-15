@@ -8,7 +8,7 @@ description: 基于 https://resume.js.org/ 的 hexo 简历模板搭建的在线�
 resume_title: jhlz的在线简历
 # 应聘者姓名
 name: 江湖浪子
-avatar: https://cdn.jsdelivr.net/gh/jhlzlove/dist@main/images/doc/avatar.jpeg
+avatar: https://gcore.jsdelivr.net/gh/jhlzlove/dist@main/images/doc/avatar.jpeg
 # 联系方式
 contact:
   - icon: fas fa-globe-asia
