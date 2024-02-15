@@ -3,9 +3,9 @@
 # Site
 language: zh-CN
 
-shortcut_icon: https://fastly.jsdelivr.net/gh/jhlzlove/dist@main/images/doc/favicon.ico
-favicon: https://fastly.jsdelivr.net/gh/jhlzlove/dist@main/images/doc/favicon.ico
-avatar: https://fastly.jsdelivr.net/gh/jhlzlove/dist@main/images/doc/avatar.jpeg
+shortcut_icon: https://gcore.jsdelivr.net/gh/jhlzlove/dist@main/images/doc/avatar.jpeg
+favicon: https://gcore.jsdelivr.net/gh/jhlzlove/dist@main/images/doc/avatar.jpeg
+avatar: https://gcore.jsdelivr.net/gh/jhlzlove/dist@main/images/doc/avatar.jpeg
 
 # 主题
 theme: resume
@@ -103,7 +103,6 @@ markdown:
   smartLists: true
   smartypants: true
 
-
 import:
   meta:
   - "<meta name='theme-color' content='#FFFFFF'>"
@@ -117,30 +116,10 @@ import:
   - "<link rel='manifest' href='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/favicon/site.webmanifest'>"
   # script:
 
-# Offline
-## Config passed to sw-precache
-## https://github.com/JLHwung/hexo-offline
-# offline config passed to sw-precache.
-# offline:
-#   maximumFileSizeToCacheInBytes: 10485760
-#   staticFileGlobs:
-#     - public/**/*.{js,html,css,png,jpg,gif,svg,eot,ttf,woff,woff2}
-#   stripPrefix: public
-#   verbose: true
-#   runtimeCaching:
-#     - urlPattern: /*
-#       handler: cacheFirst
-#       options:
-#         origin: cdn.jsdelivr.net
-#     - urlPattern: /*
-#       handler: cacheFirst
-#       options:
-#         origin: cdnjs.cloudflare.com
-
 nofollow:
   enable: true
   exclude:
-    - xaoxuu.com
+    - jhlzlove.github.io
 
 
 # npm i hexo-neat
@@ -153,10 +132,6 @@ lazyload:
   enable: true
   onlypost: false
   loadingImg: https://img.vim-cn.com/92/d570170f4f12e1ee829ca0e85a7dffeb77343a.svg
-
-
-# 百度统计key
-# baidu_analytics_key: cd037d28d6a6eaf5b81b7c9b024741cc
 
 # Deployment
 ## Docs: http://zespia.tw/hexo/docs/deployment.html

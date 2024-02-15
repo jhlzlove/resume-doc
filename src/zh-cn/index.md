@@ -2,13 +2,13 @@
 # 语言 （可选）
 lang: zh-cn
 # 网页关键词和描述
-keywords: 简历,Hexo主题,简历模板
+keywords: 简历,Hexo主题,简历模板,jhlzlove
 description: 基于 https://resume.js.org/ 的 hexo 简历模板搭建的在线简历，非常感谢作者！^_^，Github 地址：https://github.com/xaoxuu/resume-docs。<br/>“我希望我在温度高的时候变成水蒸气，升到天上；遇到冷空气，我又可以凝结成水，再次回到大地，滋养土地”。 ——胡歌
 # 简历标题
-resume_title: 江湖浪子的在线简历
+resume_title: jhlz的在线简历
 # 应聘者姓名
 name: 江湖浪子
-avatar: https://fastly.jsdelivr.net/gh/jhlzlove/dist@main/images/doc/avatar.jpeg
+avatar: https://cdn.jsdelivr.net/gh/jhlzlove/dist@main/images/doc/avatar.jpeg
 # 联系方式
 contact:
   - icon: fas fa-globe-asia
@@ -16,12 +16,12 @@ contact:
     url: https://jhlzlove.github.io
   # 邮箱
   - icon: fas fa-envelope
-    text: 邮箱
+    text: jhlz99520@163.com
     url: mailto:jhlz99520@163.com
   # 电话号码
   - icon: fas fa-phone-alt
     text: 手机
-    url: tel:17518990502
+    url: tel:17638237970
 ---
 
 {% raw %}
@@ -32,10 +32,10 @@ contact:
 
 ## <i class="fas fa-flag"></i> 技术栈
 
-**后端**
+**语言**
 
-熟悉：Java、Kotlin、NodeJs
-了解：Spring 全家桶、Spring Cloud。
+熟悉：Java
+了解：Kotlin、NodeJs、Rust、Spring 全家桶、Spring Cloud。
 
 **数据库/中间件**
 
@@ -48,22 +48,22 @@ Github Action、Jekins、Linux、微服务
 
 **云计算**
 
-熟悉：Docker
+熟悉：Docker、Podman
 了解：K8s
 
 **前端**
 
-了解：Vue、CSS、HTML
+了解：JavaScript、Vue、CSS、HTML
 
 ## <i class="fas fa-user-graduate"></i> 教育背景
 
-具体位置是河南一个非常漂亮的地方：神都，欢迎大家去游玩~
-
 **xx理工学院 计算机与信息工程系 计应专业 2021年毕业**
+
+河南神都，欢迎大家去游玩~
 
 ## <i class="fas fa-user-tie"></i> 工作经验
 
-保护公司信息，名称采用缩略形式。
+公司名称采用缩略形式。
 
 #### 2022年 ~ 2023/9：九兆数据公司
 
@@ -108,26 +108,26 @@ Github Action、Jekins、Linux、微服务
 10. 完善系统功能：接入海康的实时监控视频，便于在 Web 端能够查看对应道路的实时情况；
 11. 优化、维护代码，确保代码质量；完善公司的知识库内容；负责该项目的接口文档、数据库结构文档、详细设计说明书、系统使用、维护、安装等技术文档的撰写与修改，确保交付资料的完善；
 
+### 智慧数据大屏
+
+#### 2023.03 ~ 2023.09：于九兆公司开发，团队项目
+
+1. 使用 Hive + Spark 按照不同的口径和粒度清洗客户数据，并根据业务需求按照不同的口径和粒度加工并同步至 MySQL 中；编写自动化 Shell 脚本，每天自动进行批量任务；
+2. 与客户沟通存疑的数据，并根据客户反馈修改，将正确数据归档，为基础业务建立正确的数据支撑；
+3. 完成Linux服务器的相关服务部署：FineReport、FineBI、MySQL，并记录相关文档；
+4. 参与核心业务模块的开发，编写 FineReport页面所需要的SQL 语句并进行测试；
+5. 根据FineReport的文档编写短信插件，接入客户指定的短信平台，实现通知下发；
+6. 前后端系统联调；完成项目打包部署自动化；
+
 ## <i class="fab fa-github"></i> 开源贡献
 
-omit，开源不求回报，国内的开源环境感觉不是那么的友好，希望未来可以慢慢好起来。
+omit，开源不求回报，希望未来国内的开源环境可以慢慢好起来。
 
 ## <i class="fas fa-phone-alt"></i> 与我联系
 
 位置：金陵
-状态：离职，找工作 ing，可转语言，随时到岗（个人想找个稳定的）。接受远程开发团队，希望和志同道合的小伙伴一起 working！
+状态：离职找工作 ing，可转语言，随时到岗。
+
+接受远程开发团队，个人希望和志(xi)同(ai)道(bian)合(cheng)的小伙伴一起 working！
 
 <i class="fas fa-envelope fa-fw"></i> jhlz99520@163.com
-<i class="fas fa-phone-alt fa-fw"></i> 175-189-90502
-
-<!-- ## 评论
-
-{% raw %}
-<script src="https://utteranc.es/client.js"
-        repo="xaoxuu/hexo-theme-resume"
-        issue-number="18"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
-{% endraw %} -->

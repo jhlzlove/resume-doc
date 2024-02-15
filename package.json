@@ -2,10 +2,10 @@
   "name": "hexo-site",
   "private": true,
   "hexo": {
-    "version": "6.3.0"
+    "version": "7.1.0"
   },
   "engines": {
-    "node": ">=18.x"
+    "node": ">=20.x"
   },
   "scripts": {
     "start": "hexo server",
@@ -14,16 +14,16 @@
     "push": "hexo cl && hexo generate && hexo deploy"
   },
   "dependencies": {
-    "hexo": "^6.3.0",
+    "hexo": "^7.1.0",
     "hexo-autonofollow": "^1.0.1",
     "hexo-deployer-git": "^4.0.0",
     "hexo-lazyload-image": "^1.0.13",
     "hexo-offline": "^2.0.0",
     "hexo-renderer-ejs": "^2.0.0",
-    "hexo-renderer-marked": "^6.1.1",
-    "hexo-renderer-stylus": "^2.1.0",
+    "hexo-renderer-marked": "^6.2.0",
+    "hexo-renderer-stylus": "^3.0.1",
     "hexo-server": "^3.0.0",
     "hexo-all-minifier": "^0.5.7",
-    "hexo-fs": "^4.1.0"
+    "hexo-fs": "^4.1.1"
   }
 }

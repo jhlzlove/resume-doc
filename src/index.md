@@ -36,7 +36,8 @@ contact:
 
 Please move to Simplified Chinese.
 
-**XX University X College X Course X Major X Graduation**
+**Luoyang University of Technology specialty College computer application technology
+ Major 2021 Graduation**
 
 
 ## <i class="fas fa-user-tie"></i> Work Experience
@@ -44,8 +45,6 @@ Please move to Simplified Chinese.
 Please move to Simplified Chinese.
 
 #### 2023 ~ Present: Company XX
-
-
 
 ## <i class="fas fa-award"></i> Featured Projects
 
@@ -76,9 +75,9 @@ info C
 
 #### 2022 ~ Present, a simple java framework for Java 21
 
-<fancybox>
-</fancybox>
+### netlify-site-info-api
 
+#### 2024, use Netlify Serverless Function for Stellar theme
 
 ## <i class="fas fa-phone-alt"></i> Contact
 

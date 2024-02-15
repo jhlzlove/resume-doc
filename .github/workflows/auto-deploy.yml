@@ -15,20 +15,19 @@ jobs:
     # from: https://github.com/marketplace/actions/checkout?version=v3.6.0
     # v3 版本是新的版本，提供了更多功能和选项。除了将代码检出到工作目录外，它还支持子模块、LFS（大文件存储）和深度克隆等功能
     - name: Checkout Repository main branch
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
       with:
         submodules: true # Checkout private submodules(themes or something else)
       
     # from: https://github.com/actions/setup-node  
-    - name: Setup Node.js 18.x 
-      uses: actions/setup-node@v3
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
       with:
-        node-version: "18.x"
+        node-version: 20
     
     - name: Setup Hexo Dependencies
       run: |
         npm install -g hexo-cli
-        npm install hexo-deployer-git
         npm install
 
     - name: Setup Deploy Private Key
