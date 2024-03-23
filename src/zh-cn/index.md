@@ -35,16 +35,16 @@ contact:
 **语言**
 
 熟悉：Java
-了解：Kotlin、NodeJs、Rust、Spring 全家桶、Spring Cloud。
+了解：Kotlin、NodeJs、Rust、Spring 全家桶、微服务
 
 **数据库/中间件**
 
 熟悉：MySQL
-了解：PostgresSQL、Redis、Elasticsearch、MongoDB、MQ、Hive。
+了解：PostgreSQL、Redis、Elasticsearch、MongoDB、MQ、Hive
 
 **Devops**
 
-Github Action、Jekins、Linux、Shell、微服务
+Github Action、Jekins、Linux、微服务
 
 **云计算**
 
@@ -83,13 +83,15 @@ Github Action、Jekins、Linux、Shell、微服务
 - 为了更好的适应业务的发展、提高团队的开发效率，决定将旧项目迁移到新的技术平台，确保原有功能的正常运行，在此基础上完成微信退款业务；
 - 基于 WebSocket 协议使用长连接实现服务端主动向客户端推送数据信息，实现对管理员的提醒/预警；
 - 对接微信开放平台的 API 实现微信退款功能；图片上传使用阿里云 OSS 云存储；并完成微信公众号和邮箱的信息推送；
-- 根据协议文档针对 mqtt 上传的数据完成报文解析，将二进制数据转换为可读的文字，便于客户分析设备实时状态进行问题预防。
+- 根据协议文档针对 MQTT 上传的数据完成报文解析，将二进制数据转换为可读的文字，便于客户分析设备实时状态进行问题预防。
 
 ## <i class="fas fa-award"></i> 项目经验
 
 ### 数字孪生高速项目
 
-后端基于[若依前后端分离开源框架](http://doc.ruoyi.vip/ruoyi-vue/)进行的二次功能开发。
+数字孪生项目，集成 U3D 进行模型道路、人物、车辆、天气、时间的模拟等。客户内部使用系统，帮助企业内部实现真实的场景模拟和预测。
+
+前端基于 Vue3 进行开发，后端基于[若依前后端分离开源框架](http://doc.ruoyi.vip/ruoyi-vue/)进行的二次功能开发。
 
 #### 2023/02 ~ 2023/09：于九兆公司开发，团队项目
 
@@ -106,6 +108,8 @@ Github Action、Jekins、Linux、Shell、微服务
 - 优化、维护代码，确保代码交付质量；完善公司的知识库内容；负责该项目的接口文档、数据库结构文档、详细设计说明书、系统使用、维护、安装等技术文档的撰写与修改，确保交付资料的完善；
 
 ### 智慧数据大屏
+
+展示公司各种业务项目指标和完成度，提高公司内部信息的透明化和自动化，为领导决策提供基础数据支持。前端使用 Fine Report 进行页面的数据展示及开发，不能满足客户需求的使用 Vue 进行开发并嵌入帆软平台。
 
 #### 2023.03 ~ 2023.09：于九兆公司开发，团队项目
 
@@ -135,6 +139,6 @@ omit，希望未来国内的开源环境可以慢慢好起来。
 
 ## <i class="fas fa-phone-alt"></i> 与我联系
 
-状态：离职找工作 ing，接受远程开发/到岗，可转语言。
+状态：离职找工作 ing，可转语言，随时到岗。接受 远程/到岗 全职/兼职。
 
-<i class="fas fa-envelope fa-fw"></i> jhlz99520@163.com
+<i class="fas fa-envelope fa-fw"></i> 邮件联系 jhlz99520@163.com
