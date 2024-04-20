@@ -39,7 +39,7 @@ contact:
 
 **框架**
 
-Spring 全家桶、微服务、Quarkus、MyBatis/MyBatis Plus、Shiro 等
+Spring Boot、Spring Cloud、Spring MVC、Spring Data、Spring Security、微服务、Quarkus、MyBatis/MyBatis Plus、Jimmer...
 
 **数据库/中间件**
 
