@@ -35,7 +35,7 @@ contact:
 **语言**
 
 熟悉：Java、Kotlin
-了解：NodeJs、Rust
+了解：NodeJs
 
 **框架**
 
