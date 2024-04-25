@@ -95,7 +95,7 @@ Linux、Shell、Github Action、Jekins
 
 前端基于 Vue3 进行开发，后端基于[若依前后端分离开源框架](http://doc.ruoyi.vip/ruoyi-vue/)进行的二次功能开发。
 
-#### 2023/02 ~ 2023/09：于九兆公司开发，团队项目
+#### 2023/02 ~ 2023/09：于xxx公司开发，团队项目
 
 **技术栈：** MySQL、ES、Spring Boot、Spring Security、MyBatis Plus、Nginx、Minio、Redis 等。
 
@@ -115,7 +115,7 @@ Linux、Shell、Github Action、Jekins
 
 展示公司各种业务项目指标和完成度，提高公司内部信息的透明化和自动化，为领导决策提供基础数据支持。前端使用 Fine Report 进行页面的数据展示及开发，不能满足客户需求的使用 Vue 进行开发并嵌入帆软平台。
 
-#### 2023.03 ~ 2023.09：于九兆公司开发，团队项目
+#### 2023.03 ~ 2023.09：于xxx公司开发，团队项目
 
 **技术栈：** FineReport、FineBI、MySQL、Spring Boot、MyBatis Plus、Shiro、Nginx 等。
 
