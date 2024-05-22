@@ -16,8 +16,8 @@ contact:
     url: https://jhlzlove.github.io
   # 邮箱
   - icon: fas fa-envelope
-    text: jhlz99520@163.com
-    url: mailto:jhlz99520@163.com
+    text: 809946991@qq.com
+    url: mailto:809946991@qq.com
   # 电话号码
   - icon: fas fa-phone-alt
     text: 手机
@@ -156,4 +156,4 @@ omit，希望未来世界的开源环境可以慢慢好起来。
 
 状态：离职找工作 ing，可转语言，随时到岗。接受 远程/到岗 全职/兼职。
 
-<i class="fas fa-envelope fa-fw"></i> 邮件联系 jhlz99520@163.com
+<i class="fas fa-envelope fa-fw"></i> 邮件联系 809946991@qq.com
