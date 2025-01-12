@@ -39,7 +39,8 @@ contact:
 
 **框架**
 
-Spring Boot、Spring Cloud、Spring MVC、Spring Data、Spring Security、MyBatis/MyBatis Plus、Hibernate、Jimmer...
+熟悉：Spring Boot、Spring Cloud、Spring MVC、Spring Data、Spring Security、MyBatis/MyBatis Plus...
+了解：Quarkus、Hibernate、Jimmer...
 
 **数据库/中间件**
 
@@ -60,18 +61,23 @@ JavaScript、CSS、HTML、Vue、Element UI
 
 ## <i class="fas fa-user-graduate"></i> 教育背景
 
-**xx理工学院 计算机与信息工程系 计应专业 2021届**
-
-河南神都，欢迎大家去游玩~
+**河南神都理工学院 计算机与信息工程系 计应专业 2021届**
 
 ## <i class="fas fa-user-tie"></i> 工作经历
 
-#### 2023年 ~ 2024/7：远程开发
+#### 2024.10 ~ 至今
+
+- 及时完成相应的开发任务以及对应的汇报工作；
+- 主导软硬件监控状态同步模块的开发；
+- 优化系统打包方式，提升部署效率；
+- 负责相应的文档整理并输出；
+
+#### 2023 ~ 2024.7：远程开发
 
 - 开发并维护日活 3000 的系统，并进行业务扩展开发；
 - 带领团队新进成员熟悉业务，管理后端开发进度，及时反馈；
 
-#### 2022年 ~ 2023/9：xxx公司
+#### 2022 ~ 2023.9：xxx公司
 
 - 参与解决系统开发中遇到的难题，稳步推进项目开发的进度；
 - 及时与上级和客户沟通，修正研发中的错误方向，从而减少返工次数，提升整体效率；
@@ -79,11 +85,29 @@ JavaScript、CSS、HTML、Vue、Element UI
 
 ## <i class="fas fa-award"></i> 项目经验
 
+### 用户应用与辅助决策应用
+
+军工内部综合系统
+
+#### 2024.10 ~ 2025.01：于xxx公司开发，团队项目
+
+**技术栈：MySQL、PostgreSQL、ES、Spring Boot、MyBatis Plus（Join plugin）、Nginx、Openfegin 等。**
+
+**项目职责**
+
+- 主导系统监控模块的开发，实时监控系统的运行状态；
+- 优化系统：系统消息通知、数据库查询优化等，提升用户的日常的使用体验；
+- 优化一键重启、一键升级功能，方便用户快速升级；
+- 集成多数据源，方便在系统中快速切换，完成功能开发和数据获取；
+- 对接第三方系统的数据，使不同系统间的数据同步更及时准确；
+- 编写 Shell 部署脚本，封装为 system service，可一键部署且跟随系统启动，简化运维成本；
+- 系统部署文档输出，协同测试完成系统的压测等指标测试并参与文档完善；
+
 ### 数字孪生高速项目
 
 数字孪生项目，集成 U3D 进行模型道路、人物、车辆、天气、时间的模拟等。客户内部使用系统，帮助企业内部实现真实的场景模拟和预测。前端基于 Vue3 进行开发，后端基于[若依前后端分离开源框架](http://doc.ruoyi.vip/ruoyi-vue/)进行的二次功能开发。
 
-#### 2023/02 ~ 2023/09：于xxx公司开发，团队项目
+#### 2023.02 ~ 2023.09：于xxx公司开发，团队项目
 
 **技术栈：MySQL、ES、Spring Boot、Spring Security、MyBatis Plus、Nginx、Minio、Redis 等。**
 
@@ -130,7 +154,7 @@ JavaScript、CSS、HTML、Vue、Element UI
 - 对接第三方 API：微信退款、OSS云存储；
 - 维护项目代码；负责公司其它项目的一些代码维护与文档的编写汇报。
 
-## <i class="fab fa-github"></i> 开源贡献
+## <i class="fab fa-github"></i> Github
 
 omit
 
@@ -144,8 +168,7 @@ omit
 - 可以熟练的在 Linux 下进行服务开发、部署和维护，可作为日常系统使用；
 - 良接口相关功能的实现；好的编码习惯和代码风格，致力于交付高质量的项目代码；
 - 具备阅读英文文档的能力；
-- 具有一定的学习、抗压能力，擅于独立思考，乐于接触新鲜事物，善于总结分享，与团队成员一起成长；
 
-可转语言，随时到岗。接受 远程/到岗 全职/兼职。
+可转语言（Kotlin、Rust、Go），随时到岗。接受 远程/到岗 全职/兼职。
 
 <i class="fas fa-envelope fa-fw"></i> 邮件联系 809946991@qq.com
